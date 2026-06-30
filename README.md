@@ -67,7 +67,12 @@ So `finance/` captures the learning and points to the model. `audience/` capture
 Where a source document contradicts a locked decision, the relevant insight carries a Drift flag. Current open ones:
 - Formula: several docs still show the old five-ingredient stack with magnesium glycinate. Locked formula is four ingredients (PRD-001).
 - Claims spine: built on magnesium, which is now cut (REG-002).
-- Vesting: launch bible differs from agreed terms (LEG-003).
+- Vesting: launch bible differs from agreed terms — bible says 4-year vest/1-year cliff, agreed terms are 3-year/6-month cliff (LEG-003).
+- Smoke-test terminology: "smoke test" should mean the pre-inventory fake-door/waitlist test only. FIN-002, DEC-001, and the launch bible's Week 12 gate use it loosely to mean the live Phase 4 SKU test, which is not a smoke test by definition (DEC-002).
+- Launch bible decisions register: D2, D5, D6, and D9 predate the locked three-SKU offer architecture and the 500-unit MOQ confirmation. Still show single-SKU pricing and a 100–200 (or 150) unit assumption (DEC-003).
+
+Resolved:
+- MOQ: founder-call tension over Brand 1 batch size is resolved at 500 units, now the live figure in Budget Model v4.2 (SUP-002).
 
 ## Multi-brand path
 
